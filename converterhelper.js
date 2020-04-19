@@ -13,6 +13,12 @@ class Converter {
 }
 
 //define a class named MetricToImperial here, which extends the Converter class shown above.
+/*  Anna Sullivan
+    script.js
+    INFO2134WW
+    Thoendel
+    4/19/2020
+*/
 
 class MetricToImperial extends Converter { //class named MetricToImperial that extends Converter class
     constructor(value) { //the class constructor with value parameter
